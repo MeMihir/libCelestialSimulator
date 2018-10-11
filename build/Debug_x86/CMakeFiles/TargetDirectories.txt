@@ -1,0 +1,5 @@
+C:/Users/David/source/repos/libCelestialSimulator/build/Debug_x86/CMakeFiles/edit_cache.dir
+C:/Users/David/source/repos/libCelestialSimulator/build/Debug_x86/CMakeFiles/rebuild_cache.dir
+C:/Users/David/source/repos/libCelestialSimulator/build/Debug_x86/libCelestialSimulator/CMakeFiles/libCelestialSimulator.dir
+C:/Users/David/source/repos/libCelestialSimulator/build/Debug_x86/libCelestialSimulator/CMakeFiles/edit_cache.dir
+C:/Users/David/source/repos/libCelestialSimulator/build/Debug_x86/libCelestialSimulator/CMakeFiles/rebuild_cache.dir
